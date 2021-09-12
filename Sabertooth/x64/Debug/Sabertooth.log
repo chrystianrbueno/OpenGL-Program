@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Computação Gráfica\Sabertooth\Sabertooth\main.cpp(48,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Computação Gráfica\Sabertooth\Sabertooth\main.cpp(69,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sabertooth.vcxproj -> D:\Computação Gráfica\Sabertooth\x64\Debug\Sabertooth.exe
